@@ -1,0 +1,29 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dattarajchindarkar/ChaiAurBackend.git"
+  },
+  "type": "module",
+  "keywords": [
+    "backend",
+    "chai aur code"
+  ],
+  "author": "DC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dattarajchindarkar/ChaiAurBackend/issues"
+  },
+  "homepage": "https://github.com/dattarajchindarkar/ChaiAurBackend#readme",
+  "description": "laerning backend",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
